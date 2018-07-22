@@ -1,0 +1,29 @@
+h1 {
+	font-size: 36px;
+	font-family: 'Tillana', fantasy;
+	text-align: center;
+	}
+	
+ul {
+	font-family: 'Joker', fantasy;
+	text-align: left;
+	}
+
+table, th, td {
+	border: 1px solid black;
+	text-align: center;
+	font-family: 'Joker', fantasy;
+	}
+	
+tr:hover {background-color: #f5f5f5}
+		
+p {
+	font-family: fantasy;
+	text-align: center;
+	}
+	
+body {
+	color: darkslategray;
+	background-color: AntiqueWhite;
+	}
+	
